@@ -5,7 +5,6 @@ Item {
     width: 1080; height: 1920
     RandomCurve {
         anchors.centerIn: parent
-        width: 500; height: 500
-
+        width: 1080; height: 1920
     }
 }
